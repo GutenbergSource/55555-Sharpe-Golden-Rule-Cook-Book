@@ -1,0 +1,23 @@
+
+div.citation {
+  padding: 60pt 15% 60pt 15%;
+}
+
+p.citSource {
+  text-align: right;
+}
+
+#copyright {
+  text-align: center;
+}
+
+div.menu {
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: center;
+}
+
+div.menu table {
+  width: 100%;
+}
+
